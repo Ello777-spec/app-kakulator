@@ -2,7 +2,7 @@
 App simple yang untuk membantu hitung **percepatan**, **kepercepatan** **awal**, **kepercepatan** **akhir**, dan **waktu**
 
 ## 📸 Demo Highlight
-![screenshot](https://cdn.corenexis.com/view/?img=d/ju1/8nt0lz.png)
+![screenshot](path/to/https://cdn.corenexis.com/view/?img=d/ju1/0WmEZA.png)
 
 ## ✨ Fitur
 - Pilih rumus untuk cari percapatan, kecapatan awal, kecapatan akhir, atau waktu.
